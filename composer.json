@@ -1,0 +1,26 @@
+{
+    "name": "cinv/inventario-online",
+    "description": "Creaccion de un inventario online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nombre 1",
+            "email": "ldjlfjd@gmail.com"
+        },
+        {
+            "name": "nombre2"
+        },
+        {
+            "name": "nombre3"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "construInventory\\":"src/"
+        }
+    }
+}
